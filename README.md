@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Joas 👋</h1>
-<h3 align="center">Développeur Full-Stack freelance basé à Cotonou 🇧🇯 — Je construis des produits qui marchent, pas des démos</h3>
+<h3 align="center">Développeur Full-Stack freelance basé à Cotonou 🇧🇯 , Je construis des produits qui marchent, pas des démos</h3>
  
 <p align="center">
   <a href="https://wa.me/2290159841185"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -12,11 +12,11 @@
  
 Je ne me contente pas de coder des features, je conçois des **produits complets, de l'idée au déploiement** : app mobile, backend, automatisations, funnels de vente et design UI/UX. Si tu as un projet en tête, je peux le prendre de bout en bout.
  
-- 🚀 **Full-Stack** — Frontend fluide + Backend solide, sans compromis
-- 🤖 **Automatisation IA** — Workflows n8n pour faire tourner ton business en pilote automatique
-- 💰 **Tunnels de vente** — Je transforme du trafic en clients, pas juste des visiteurs
-- 📱 **Apps mobiles** — Du concept au store (voir *Abide* ci-dessous 👇)
-- 🎨 **UI/UX** — Parce qu'un bon produit moche, ça ne se vend pas
+- 🚀 **Full-Stack** , Frontend fluide + Backend solide, sans compromis
+- 🤖 **Automatisation IA** , Workflows n8n pour faire tourner ton business en pilote automatique
+- 💰 **Tunnels de vente** , Je transforme du trafic en clients, pas juste des visiteurs
+- 📱 **Apps mobiles** , Du concept au store (voir *Abide* ci-dessous 👇)
+- 🎨 **UI/UX** , Parce qu'un bon produit moche, ça ne se vend pas
 ---
  
 ### 🛠️ Ma stack
@@ -37,6 +37,6 @@ Je ne me contente pas de coder des features, je conçois des **produits complets
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
  
-> 💡 En ce moment je suis **à fond sur Supabase** — DB, Auth, Edge Functions, sécurité (RLS), le tout centralisé dans une seule infra. Franchement, c'est un game changer pour livrer vite et solide.
+> 💡 En ce moment je suis **à fond sur Supabase** , DB, Auth, Edge Functions, sécurité (RLS), le tout centralisé dans une seule infra. Franchement, c'est un game changer pour livrer vite et solide.
  
 ---
