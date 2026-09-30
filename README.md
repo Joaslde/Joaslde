@@ -67,9 +67,13 @@ Je conçois des **produits complets, de l'idée au déploiement** : applications
 
 ---
 
-### 📈 Dispo pour du freelance
+### 📈 Freelance & disponibilités
 
-Je bosse avec des clients qui veulent des **résultats**, pas juste du code livré. Que tu aies besoin d'une app métier solide, d'une app mobile, d'un tunnel de vente qui convertit ou d'une automatisation qui te fait gagner du temps, écris-moi.
+Depuis 2025, j'accompagne des clients et des agences sur des projets web de bout en bout :
+applications métier, automatisations, tunnels de vente. Je reste ouvert
+aux opportunités en CDD ou CDI qui me permettent de m'investir durablement
+dans une équipe et sur des projets à fort impact.
+
 
 <p align="center">
   <a href="https://wa.me/2290159841185"><img src="https://img.shields.io/badge/Discutons_de_ton_projet-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
